@@ -1,1 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(8, 96, 96);
+}
 
+
+#headerSection{
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#headerSection h1{    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 13%;
+}
+
+#loginbtn
+{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(0, 72, 255, 0.711); 
+    color: white;
+}
